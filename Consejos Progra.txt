@@ -1,0 +1,5 @@
+- Los vectores son punteros, lo que si necesita & son los espacios, exceptuando los strings que las cadenas si son punteros.
+- Estar atento con la cancelación de & y *, a menos de haya un paréntesis, lo cual cambiaría esa acción.
+- Una vez utilizada una lista, sea muestra, eliminacion o inserción, luego no se puede reutilizar, es decir hay que utilizar otra variable del tipo Tlista 
+  para hacer otro procedimiento
+- Para colas y pilas, evitar que el telemento tal no sea un string porque se complica todo
